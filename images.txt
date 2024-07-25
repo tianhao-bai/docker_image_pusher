@@ -5,8 +5,8 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-infiniflow/ragflow-base:v2.0
-docker.elastic.co/elasticsearch/elasticsearch:8.11.3
-infiniflow/ragflow:v0.8.0
-infiniflow/ragflow:dev
+#infiniflow/ragflow-base:v2.0
+#docker.elastic.co/elasticsearch/elasticsearch:8.11.3
+#infiniflow/ragflow:v0.8.0
+#infiniflow/ragflow:dev
 redis:7.2.4
